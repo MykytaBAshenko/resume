@@ -1,0 +1,677 @@
+
+Warning: PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), 
+C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), 
+C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0       
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not 
+be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not 
+be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be 
+found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be 
+found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  require(C:\Users\User\Desktop\shipping/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\User\Desktop\shipping\yii on line 10
+
+Warning: require(C:\Users\User\Desktop\shipping/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\User\Desktop\shipping\yii on line 10
+PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Desktop\shipping/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\shipping\yii on line 10
+
+Fatal error: require(): Failed opening required 'C:\Users\User\Desktop\shipping/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\shipping\yii on line 10
+
+C:\Users\User\Desktop\shipping>php yii migrate --migrationPath=common/migrations --interactive=0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), 
+C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), 
+C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), 
+C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), 
+C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), 
+C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0       
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not 
+be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not 
+be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be 
+found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be 
+found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'snmp' (tried: C:\php\ext\snmp (The specified module could not be found.), C:\php\ext\php_snmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'snmp' (tried: C:\php\ext\snmp (The specified module could not be found.), C:\php\ext\php_snmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'soap' (tried: C:\php\ext\soap (The specified module could not be found.), C:\php\ext\php_soap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'soap' (tried: C:\php\ext\soap (The specified module could not be found.), C:\php\ext\php_soap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sockets' (tried: C:\php\ext\sockets (The specified module could not be found.), C:\php\ext\php_sockets.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'sockets' (tried: C:\php\ext\sockets (The specified module could not be found.), C:\php\ext\php_sockets.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\php\ext\sodium (The specified module could not be found.), C:\php\ext\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\php\ext\sodium (The specified module could not be found.), C:\php\ext\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite3' (tried: C:\php\ext\sqlite3 (The specified module could not be found.), C:\php\ext\php_sqlite3.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'sqlite3' (tried: C:\php\ext\sqlite3 (The specified module could not be found.), C:\php\ext\php_sqlite3.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'tidy' (tried: C:\php\ext\tidy (The specified module could not be found.), C:\php\ext\php_tidy.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'tidy' (tried: C:\php\ext\tidy (The specified module could not be found.), C:\php\ext\php_tidy.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: C:\php\ext\xmlrpc (The specified module could not be found.), C:\php\ext\php_xmlrpc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: C:\php\ext\xmlrpc (The specified module could not be found.), C:\php\ext\php_xmlrpc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'xsl' (tried: C:\php\ext\xsl (The specified module could not be found.), C:\php\ext\php_xsl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'xsl' (tried: C:\php\ext\xsl (The specified module could not be found.), 
+C:\php\ext\php_xsl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), 
+C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), 
+C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), 
+C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), 
+C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), 
+C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0       
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not 
+be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not 
+be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be 
+found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be 
+found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  require(C:\Users\User\Desktop\shipping/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\User\Desktop\shipping\yii on line 10
+
+Warning: require(C:\Users\User\Desktop\shipping/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\User\Desktop\shipping\yii on line 10
+PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Desktop\shipping/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\shipping\yii on line 10
+
+Fatal error: require(): Failed opening required 'C:\Users\User\Desktop\shipping/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\shipping\yii on line 10
+
+C:\Users\User\Desktop\shipping>php yii rbac/migrate --interactive=0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), 
+C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), 
+C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), 
+C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), 
+C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), 
+C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0       
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not 
+be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not 
+be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be 
+found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be 
+found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'snmp' (tried: C:\php\ext\snmp (The specified module could not be found.), C:\php\ext\php_snmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'snmp' (tried: C:\php\ext\snmp (The specified module could not be found.), C:\php\ext\php_snmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'soap' (tried: C:\php\ext\soap (The specified module could not be found.), C:\php\ext\php_soap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'soap' (tried: C:\php\ext\soap (The specified module could not be found.), C:\php\ext\php_soap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sockets' (tried: C:\php\ext\sockets (The specified module could not be found.), C:\php\ext\php_sockets.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'sockets' (tried: C:\php\ext\sockets (The specified module could not be found.), C:\php\ext\php_sockets.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\php\ext\sodium (The specified module could not be found.), C:\php\ext\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\php\ext\sodium (The specified module could not be found.), C:\php\ext\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite3' (tried: C:\php\ext\sqlite3 (The specified module could not be found.), C:\php\ext\php_sqlite3.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'sqlite3' (tried: C:\php\ext\sqlite3 (The specified module could not be found.), C:\php\ext\php_sqlite3.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'tidy' (tried: C:\php\ext\tidy (The specified module could not be found.), C:\php\ext\php_tidy.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'tidy' (tried: C:\php\ext\tidy (The specified module could not be found.), C:\php\ext\php_tidy.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: C:\php\ext\xmlrpc (The specified module could not be found.), C:\php\ext\php_xmlrpc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: C:\php\ext\xmlrpc (The specified module could not be found.), C:\php\ext\php_xmlrpc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'xsl' (tried: C:\php\ext\xsl (The specified module could not be found.), C:\php\ext\php_xsl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'xsl' (tried: C:\php\ext\xsl (The specified module could not be found.), 
+C:\php\ext\php_xsl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), 
+C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), 
+C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), 
+C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), 
+C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), 
+C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0       
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not 
+be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not 
+be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be 
+found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be 
+found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  require(C:\Users\User\Desktop\shipping/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\User\Desktop\shipping\yii on line 10
+
+Warning: require(C:\Users\User\Desktop\shipping/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\User\Desktop\shipping\yii on line 10
+PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Desktop\shipping/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\shipping\yii on line 10
+
+Fatal error: require(): Failed opening required 'C:\Users\User\Desktop\shipping/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\shipping\yii on line 10
+
+C:\Users\User\Desktop\shipping>php yii serve --docroot="yellow/web/" 
+PHP Warning:  PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), 
+C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), 
+C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), 
+C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), 
+C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), 
+C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0       
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not 
+be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not 
+be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be 
+found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be 
+found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'snmp' (tried: C:\php\ext\snmp (The specified module could not be found.), C:\php\ext\php_snmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'snmp' (tried: C:\php\ext\snmp (The specified module could not be found.), C:\php\ext\php_snmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'soap' (tried: C:\php\ext\soap (The specified module could not be found.), C:\php\ext\php_soap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'soap' (tried: C:\php\ext\soap (The specified module could not be found.), C:\php\ext\php_soap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sockets' (tried: C:\php\ext\sockets (The specified module could not be found.), C:\php\ext\php_sockets.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'sockets' (tried: C:\php\ext\sockets (The specified module could not be found.), C:\php\ext\php_sockets.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\php\ext\sodium (The specified module could not be found.), C:\php\ext\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'sodium' (tried: C:\php\ext\sodium (The specified module could not be found.), C:\php\ext\php_sodium.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite3' (tried: C:\php\ext\sqlite3 (The specified module could not be found.), C:\php\ext\php_sqlite3.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'sqlite3' (tried: C:\php\ext\sqlite3 (The specified module could not be found.), C:\php\ext\php_sqlite3.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'tidy' (tried: C:\php\ext\tidy (The specified module could not be found.), C:\php\ext\php_tidy.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'tidy' (tried: C:\php\ext\tidy (The specified module could not be found.), C:\php\ext\php_tidy.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: C:\php\ext\xmlrpc (The specified module could not be found.), C:\php\ext\php_xmlrpc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'xmlrpc' (tried: C:\php\ext\xmlrpc (The specified module could not be found.), C:\php\ext\php_xmlrpc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'xsl' (tried: C:\php\ext\xsl (The specified module could not be found.), C:\php\ext\php_xsl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'xsl' (tried: C:\php\ext\xsl (The specified module could not be found.), 
+C:\php\ext\php_xsl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'bz2' (tried: C:\php\ext\bz2 (The specified module could not be found.), 
+C:\php\ext\php_bz2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'curl' (tried: C:\php\ext\curl (The specified module could not be found.), C:\php\ext\php_curl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ffi' (tried: C:\php\ext\ffi (The specified module could not be found.), 
+C:\php\ext\php_ffi.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ftp' (tried: C:\php\ext\ftp (The specified module could not be found.), 
+C:\php\ext\php_ftp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'fileinfo' (tried: C:\php\ext\fileinfo (The specified module could not be found.), C:\php\ext\php_fileinfo.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gd2' (tried: C:\php\ext\gd2 (The specified module could not be found.), 
+C:\php\ext\php_gd2.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gettext' (tried: C:\php\ext\gettext (The specified module could not be found.), C:\php\ext\php_gettext.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'gmp' (tried: C:\php\ext\gmp (The specified module could not be found.), 
+C:\php\ext\php_gmp.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'intl' (tried: C:\php\ext\intl (The specified module could not be found.), C:\php\ext\php_intl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'imap' (tried: C:\php\ext\imap (The specified module could not be found.), C:\php\ext\php_imap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'ldap' (tried: C:\php\ext\ldap (The specified module could not be found.), C:\php\ext\php_ldap.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mbstring' (tried: C:\php\ext\mbstring (The specified module could not be found.), C:\php\ext\php_mbstring.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'exif' (tried: C:\php\ext\exif (The specified module could not be found.), C:\php\ext\php_exif.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'mysqli' (tried: C:\php\ext\mysqli (The specified module could not be found.), C:\php\ext\php_mysqli.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: C:\php\ext\oci8_12c (The specified module could not be found.), C:\php\ext\php_oci8_12c.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'odbc' (tried: C:\php\ext\odbc (The specified module could not be found.), C:\php\ext\php_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'openssl' (tried: C:\php\ext\openssl (The specified module could not be found.), C:\php\ext\php_openssl.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0       
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: C:\php\ext\pdo_firebird (The specified module could not be found.), C:\php\ext\php_pdo_firebird.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_mysql' (tried: C:\php\ext\pdo_mysql (The specified module could not 
+be found.), C:\php\ext\php_pdo_mysql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: C:\php\ext\pdo_oci (The specified module could not be found.), C:\php\ext\php_pdo_oci.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_odbc' (tried: C:\php\ext\pdo_odbc (The specified module could not be found.), C:\php\ext\php_pdo_odbc.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_pgsql' (tried: C:\php\ext\pdo_pgsql (The specified module could not 
+be found.), C:\php\ext\php_pdo_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\php\ext\pdo_sqlite (The specified module could not be found.), C:\php\ext\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be 
+found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'pgsql' (tried: C:\php\ext\pgsql (The specified module could not be found.), C:\php\ext\php_pgsql.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be 
+found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+
+Warning: PHP Startup: Unable to load dynamic library 'shmop' (tried: C:\php\ext\shmop (The specified module could not be found.), C:\php\ext\php_shmop.dll (The specified module could not be found.)) in Unknown on line 0
+PHP Warning:  require(C:\Users\User\Desktop\shipping/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\User\Desktop\shipping\yii on line 10
+
+Warning: require(C:\Users\User\Desktop\shipping/vendor/autoload.php): failed to open stream: No such file or directory in C:\Users\User\Desktop\shipping\yii on line 10
+PHP Fatal error:  require(): Failed opening required 'C:\Users\User\Desktop\shipping/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\shipping\yii on line 10
+
+Fatal error: require(): Failed opening required 'C:\Users\User\Desktop\shipping/vendor/autoload.php' (include_path='.;C:\php\pear') in C:\Users\User\Desktop\shipping\yii on line 10
